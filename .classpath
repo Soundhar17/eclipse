@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/soundhararaj/Pictures/testing class recorder/selenium And java instalation/selenium 4.5/selenium-server-4.5.0.jar" sourcepath="/Java sele pro"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
